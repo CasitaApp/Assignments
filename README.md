@@ -27,4 +27,6 @@
 * Competitors average metric:
   * Average Finance Industry CAC is $175 
   * Average Cost Per Lead in the Fintech Industry is $490
-* 
+
+## Recommendations
+ * 
