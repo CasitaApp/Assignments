@@ -20,4 +20,4 @@
 ## Results
 * The Business Impact of this company translete to consumer become more financially educated while getting debt free.
 * 
-* Debbie still in the beta face improving the app based on a small group of users feedback. Debbie use Customer Acquisition Cost( the price you pay to convert lead into customers ) to the app is $5 compare to $175 in the finance industry their cost per lead is $1.50 
+* Debbie still in the beta face improving their app based on a small group of users feedback. Debbie use Customer Acquisition Cost( the price you pay to convert lead into customers ) to the app is $5 compare to $175 in the finance industry their cost per lead is $1.50 
