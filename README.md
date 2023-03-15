@@ -23,5 +23,8 @@
 * Debbie still in the beta face improving their app based on a small group of users feedback. Debbie Core Metric use:
   * Customer Acquisition Cost (the price you pay to convert lead into customers) to the app is $5 
   * Cost Per Lead is $1.50
+  * Convertion rate from the the waitlist growth around 30% of the folks offboard
+* Competitors average metric:
   * Average Finance Industry CAC is $175 
   * Average Cost Per Lead in the Fintech Industry is $490
+* 
