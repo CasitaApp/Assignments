@@ -20,7 +20,7 @@
 ## Results
 * The Business Impact of this company translete to consumer become more financially educated while getting debt free.
 * 
-* Debbie still in the beta face improving their app based on a small group of users feedback. Debbie Core Metric:
+* Debbie still in the beta face improving their app based on a small group of users feedback. Debbie Core Metric use:
   * Customer Acquisition Cost (the price you pay to convert lead into customers) to the app is $5 
   * Cost Per Lead is $1.50
   * Average Finance Industry CAC is $175 
