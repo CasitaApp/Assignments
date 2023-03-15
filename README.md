@@ -18,9 +18,9 @@
 * Other major companies in this domain are: Accredited, Avant, Upstart, Best Egg, LendingClub.
 
 ## Results
-* The Business Impact of this company translete to consumer become more financially educated while getting debt free.
+* The Business Impact of this company translate to consumer become more financially educated while getting debt free. Also this "Get paid to pay off your debt" can become the new trend in lending products
 * 
-* Debbie still in the beta face improving their app based on a small group of users feedback. Debbie Core Metric use:
+* Debbie still in the beta face improving their app software based on a small group of users feedback. Debbie Core Metric use:
   * Customer Acquisition Cost (the price you pay to convert lead into customers) to the app is $5 
   * Cost Per Lead is $1.50
   * Convertion rate from the the waitlist growth around 30% of the folks offboard
