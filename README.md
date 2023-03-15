@@ -24,5 +24,4 @@
   * Customer Acquisition Cost (the price you pay to convert lead into customers) to the app is $5 
   * Cost Per Lead is $1.50
   * Average Finance Industry CAC is $175 
-  * 
-  * 
+  * Average Cost Per Lead in the Fintech Industry is $490
