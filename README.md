@@ -29,4 +29,4 @@
   * Average Cost Per Lead in the Fintech Industry is $490
 
 ## Recommendations
- * 
+ * Service/Product: A personalize 
