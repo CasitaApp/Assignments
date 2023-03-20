@@ -2,7 +2,8 @@
 ## Startup company base in Miami, FL
 * Name of the company: Debbie " https://www.joindebbie.com/ "
 * The company was incorporated: Oct 2021
-* Founders: Frida Leibowitz and Rachel Lauren
+* Founders: Frida Leibowitz and Rachel Lauren 
+![Founders](https://imageio.forbes.com/specials-images/imageserve/6287cc929f595288ee3641f9/Debbie-Founders/960x0.jpg?format=jpg&width=960)
 * The idea of the company came out by running polls on social media as FB & Instagram on a 1:1 interviews and finding a common problem in the Financial Industry. 
 * As January 2023 the company was able to raise $1.2 million from Financial Institutions partners like One Way VC, Village Global, Liquid 2 Ventures, BDMI, Green Egg Ventures, TA Ventures, etc. The company get funded when a client is paying bills on time and using their partners savings account Debbie get funded with fees for offering Debbie program and while improving the clients financial outlook also unlock financial products at better rates. And when the client unlock it the partners pays Debbie for the new business.
 
