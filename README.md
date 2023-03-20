@@ -11,7 +11,7 @@
 * Most people get their first credit card and start using it without financial guidance pushing you into additional debt. The mentalitty of "the more you spent the more you earn" is an actual problem for many americans. A way to solve this problem without hiring expensive credit repair services is with a product that reward you for hitting goals along your debt free creating a different impact in peoples financial habits.
 * The intended customer are most people who are in a perpetual state of debt, for their spending habits and continue to stay the same despite racking up a credit card bill. The target Market is the 40% of American families who find themselves in revolving credit card debt.
 * This company comes with an innovative solution for a long time problem by getting you debt free. Competitors companies forget to celebrate and reward all the positive behaviors people take toward financial health.
-*
+* It will be an App base currently in beta face.
 
 ## Landscape
 * Wealth Management company
@@ -30,4 +30,7 @@
   * Average Cost Per Lead in the Fintech Industry is $490
 
 ## Recommendations
- * Service/Product: Implement a 
+ * Service/Product: For now they only manage Credit Cards and Personal Loans, I will Implements more products like Mortgage, HELOC Car Loans.
+ * It will be total Debt solution and made them more a competitive company.
+ * Same technology but will need to review law and regulations in order to comply with current regulations.
+ * It will give the consumers a more accesibility to a better debt consolidation solution.
