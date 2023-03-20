@@ -30,7 +30,7 @@
   * Average Cost Per Lead in the Fintech Industry is $490
 
 ## Recommendations
- * Service/Product: For now they only manage Credit Cards and Personal Loans, I will Implements more products like Mortgage, HELOC Car Loans. Also to have access to a voice command AI solutions like SIRI from apple for consumers specializing in asnwer question of their debt attached in their app.
+ * Service/Product: For now they only manage Credit Cards and Personal Loans, I will Implements more products like Mortgage, HELOC and Car Loans. Also to have access to a voice command AI solutions like SIRI from apple for consumers specializing in asnwer question of their debt attached in their app.
  * It will be total Debt solution and made them more a competitive company.
  * Same technology but will need to review law and regulations in order to comply with current regulations.
  * It will give the consumers a more accesibility to a better debt consolidation solution.
